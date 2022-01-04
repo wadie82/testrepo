@@ -1,0 +1,29 @@
+Pre-requisites for working with GitHub on local machine:
+BASH Installation
+
+For Windows:
+
+GitBash Installation
+
+For Linux/Unix:
+
+For Linux systems installing Git is easy. If you are using a Debian-based distribution like Ubuntu, you can use apt install:
+
+$ sudo apt install git-all
+
+For Fedora, RHEL or CentOS, you can use:
+
+$ sudo dnf install git-all
+
+For Mac:
+
+Open the Terminal
+
+Install homebrew if you don't already have it, then:
+
+$ brew install git
+
+SSH Key generation
+
+Generate SSH Key
+
